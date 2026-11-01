@@ -5,7 +5,7 @@ This repo **is** the game: stock 1.12.1 client, stock UI, server login. Treat it
 ## Run locally (Windows)
 
 1. **Game data:** point `WOW_DATA` at a build **5875** `Data` folder (MPQs only; benilla never writes into it). Reuse data from another clone if you already extracted it, e.g. `..\azeroth-survivors-re\wow-data\Data`.
-2. **Server:** run a 1.12.1 core locally ([vmangos](https://github.com/vmangos/core) is the usual dev target). Warden must be **off**. Set Realmlist to your realm.
+2. **Server:** run a 1.12.1 core locally ([vmangos](https://github.com/vmangos/core) is the usual dev target). Warden must be **off**. Set Realmlist to your realm. **GM accounts:** [GM-ACCOUNT.md](./GM-ACCOUNT.md).
 3. **Client:**
 
 ```powershell
